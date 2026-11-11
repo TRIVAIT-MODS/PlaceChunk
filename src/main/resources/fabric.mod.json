@@ -1,0 +1,36 @@
+{
+	"schemaVersion": 1,
+	"id": "placechunk",
+	"version": "${version}",
+	"name": "PlaceChunk",
+	"description": "Replaces all blocks in a chunk with the block you have placed.",
+	"authors": [
+		"TRIVAIT"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/user/Trivait",
+		"sources": "https://github.com/TRIVAIT-MODS/PlaceChunk",
+		"issues": "https://github.com/TRIVAIT-MODS/PlaceChunk/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/placechunk/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"org.trivait.placechunk.PlaceChunk"
+		]
+	},
+	"mixins": [
+		"placechunk.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*",
+		"cloth-config2": "*"
+	},
+	"suggests": {
+		"iconbuttonsapi": "*"
+	}
+}
