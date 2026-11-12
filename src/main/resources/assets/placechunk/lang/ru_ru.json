@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.placechunk.title": "PlaceChunk",
+  "text.autoconfig.placechunk.option.modEnabled": "Мод включен",
+  "text.autoconfig.placechunk.option.onBreak": "Переставлять блоки при ломании блока",
+  "text.autoconfig.placechunk.option.onPlace": "Переставлять блоки при установке блока",
+
+  "modmenu.summaryTranslation.placechunk": "Заменяет весь чанк на блок, который вы разместили",
+  "modmenu.descriptionTranslation.placechunk": "Заменяет весь чанк на блок, который вы разместили"
+}

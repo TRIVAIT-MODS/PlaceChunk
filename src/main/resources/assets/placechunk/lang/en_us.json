@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.placechunk.title": "PlaceChunk",
+  "text.autoconfig.placechunk.option.modEnabled": "Mod enabled",
+  "text.autoconfig.placechunk.option.onBreak": "Replace blocks on breaking blocks",
+  "text.autoconfig.placechunk.option.onPlace": "Replace blocks on placing blocks",
+
+  "modmenu.summaryTranslation.placechunk": "Replaces all blocks in a chunk with the block you have placed",
+  "modmenu.descriptionTranslation.placechunk": "Replaces all blocks in a chunk with the block you have placed"
+}

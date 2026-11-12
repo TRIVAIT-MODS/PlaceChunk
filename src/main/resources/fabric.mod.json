@@ -3,7 +3,7 @@
 	"id": "placechunk",
 	"version": "${version}",
 	"name": "PlaceChunk",
-	"description": "Replaces all blocks in a chunk with the block you have placed.",
+	"description": "Replaces all blocks in a chunk with the block you have placed",
 	"authors": [
 		"TRIVAIT"
 	],
